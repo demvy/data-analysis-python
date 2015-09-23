@@ -1,2 +1,2 @@
 # data-analysis-python
-python lab2
+analysis of geodate using python numpy and pandas
